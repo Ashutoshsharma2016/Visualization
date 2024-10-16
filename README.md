@@ -12,7 +12,7 @@ hp : this column gives information about the horse power of the engine.
 weightlbs : weight of the car in pounds.
 time-to-60 : this column will give you the information about the time is sec to pick the speed of 60 miles per hour.
 Year : this columns will give you the manufacturing year of that car.
-brand : give you the information about the company of that car.
+brand : give you the information about the manufacturing country,(in which country the car is manufactured).
 
 The dataset can be found in the data/ directory of this repository.
 
